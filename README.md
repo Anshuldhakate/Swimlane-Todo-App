@@ -3,7 +3,14 @@
 
 ## Overview
 
-This is a React-based Todo application that utilizes drag-and-drop functionality to manage tasks across different stages: **ToDo**, **In Progress**, and **Done**. The application uses Redux for state management and a JSON server for backend simulation. The user interface is styled with a dark theme and distinct colors for different task statuses.
+This React-based Todo application utilizes drag-and-drop functionality to manage tasks across different stages: **ToDo**, **In Progress**, and **Done**. The application uses Redux for state management and a JSON server for backend simulation. The user interface has a dark theme and distinct colors for different task statuses.
+
+<br/>
+
+<img width="816" alt="Screenshot 2024-08-13 172357" src="https://github.com/user-attachments/assets/dcc31412-4995-4a0e-aa1c-c5f79bdb5341">
+
+
+<br/>
 
 ## Features
 
