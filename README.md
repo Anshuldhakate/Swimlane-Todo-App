@@ -12,6 +12,11 @@ This is a React-based Todo application that utilizes drag-and-drop functionality
 - **Status Update:** Automatically updates the task's status in the backend (db.json) when moved between sections.
 - **Dark Theme UI:** Stylish dark theme with distinct colors for each status.
 
+## Usage
+- Create a Todo: Enter a title and details, then click "Add Todo" to create a new task.
+- Drag-and-Drop Tasks: Drag tasks between the ToDo, In Progress, and Done sections.
+- View Changes: The application reflects changes immediately in the UI, and updates are saved to db.json.
+
 ## Installation
 
 ### Prerequisites
@@ -31,7 +36,4 @@ cd your-repo
 ### Run the React Application
 - npm start
 
-### Usage
-- Create a Todo: Enter a title and details, then click "Add Todo" to create a new task.
-- Drag-and-Drop Tasks: Drag tasks between the ToDo, In Progress, and Done sections.
-- View Changes: The application reflects changes immediately in the UI, and updates are saved to db.json.
+
